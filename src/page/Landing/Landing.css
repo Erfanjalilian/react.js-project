@@ -1,0 +1,64 @@
+.LandingSec{
+    width: 100%;
+    height: auto;
+    background-color: #f2f6fc !important;
+}
+.containerLanding{
+    width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.containerForCircleLanding-end{
+    background-color: #f2f6fc !important;
+    width: 100%;
+    height: 120px;
+    background-color: rgb(238, 238, 238);
+    border-radius: 100%;
+    
+    position: relative;
+    top: 60px;
+
+}
+.mainLAnding{
+    display: flex;
+    justify-content: space-between;
+}
+.containerForRespansiv{
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.khatekaj{
+    width: 100%;
+    height: 200px;
+    color: white;
+    background-color: white;
+    
+}
+@media only screen and (min-width:0px) and (max-width:500px) {
+    .containerLanding{
+        width: 80%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .containerForRespansiv{
+        width: 80%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .mainLAnding{
+        display: block;
+    }
+    .LandingSec{
+        width: 100%;
+        height: auto;
+        background-color: #f2f6fc !important;
+        margin-bottom: 170px;
+    }
+    
+    
+}

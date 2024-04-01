@@ -1,0 +1,19 @@
+
+
+.tozihatbetween{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #616468;
+}
+.boxparagraf{
+    padding: 1.35rem;
+    background-color: #c5ccd6;
+    border-radius: 5px;
+}
+.betweenicon{
+    color: white;
+    background-color: #0061f2;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}

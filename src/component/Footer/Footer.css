@@ -1,0 +1,48 @@
+.mainFooter{
+    background-color: #d4dae3;
+    width: 100%;
+    height: auto;
+}
+.footerList{
+    font-size: 1rem;
+    color: #4c4d50;
+    cursor: pointer;
+    margin: 5px;
+}
+.footerList:hover{
+    text-decoration: underline;
+}
+.c{
+    text-align: right !important;
+}
+.fontSizeIcon{
+    color: #4c4d50;
+    margin: 5px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+@media only screen and (min-width:0px) and (max-width:500px) {
+
+    .footerList{
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+    .fontSizeIcon{
+       margin-top: 30px;
+       margin-left: 30px;
+    }
+    h5{
+
+        margin-left: 30px;
+        margin-top: 30px;
+
+    }
+    h4{
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+
+    
+}

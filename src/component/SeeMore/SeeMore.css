@@ -1,0 +1,72 @@
+
+.onvaneseemor{
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #363d47;
+    box-sizing: border-box;
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+}
+.matneseemor{
+    color: rgb(82, 82, 82);
+    margin-top: 0;
+    margin-bottom: 0;
+
+
+}
+.flexSeeMore{
+    display: flex;
+    justify-content: space-between;
+}
+.mainSeeMore{
+  
+    width: 85%;
+    margin-top: 200px;
+    box-shadow: 0px 0px 20px rgb(211, 210, 210);
+    border-radius: 10px;
+    transition: all 0.5s linear;
+}
+.mainSeeMore:hover{
+    margin-top: 190px;
+  
+    box-shadow: 0px 0px 45px rgb(211, 210, 210);
+}
+.containerMore{
+    width: 85%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media only screen and (min-width:0px) and (max-width:500px) {
+
+    .mainSeeMore{
+        margin-top: 70px;
+        margin-bottom:0px;
+        width: 100%;
+        box-shadow: 0px 0px 20px rgb(211, 210, 210);
+        border-radius: 10px;
+    }
+    .containerMore{
+        width: 85%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .mainSeeMore:hover{
+        margin-top:70px;
+      
+        box-shadow: 0px 0px 45px rgb(211, 210, 210);
+    }
+
+    
+}
+

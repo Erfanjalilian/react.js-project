@@ -1,0 +1,37 @@
+
+.Landing > div{
+    text-align: center;
+}
+.Landing > p{
+    text-align: center;
+}
+.DEMOS{
+    padding: 0.5em 1em;
+    border-radius: 50rem;
+    font-size: .75em;
+    font-weight: 400;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    color: #0061f2;
+    background-color: #c5d8f5;
+}
+.OnvanLanding{
+    font-size: 1.3rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #363d47;
+}
+.lead{
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+.containerlead{
+    width: 60%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}

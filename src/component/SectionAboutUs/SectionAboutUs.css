@@ -1,0 +1,31 @@
+
+
+.mainAboutUs{
+    background-color: #0061f2;
+    width: 100%;
+    height: auto;
+    padding-top:200px;
+    padding-bottom: 100px;
+}
+.containerAboutUs{
+    width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.onvaneAbout{
+    text-align: center;
+    font-size: 2.5rem;
+    color: #fff;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+}
+
+.matneAbout{
+    text-align: center;
+    font-size: 1.15rem;
+    color: #ffffff80;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+}

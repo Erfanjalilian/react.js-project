@@ -1,0 +1,49 @@
+
+
+.sizList{
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+  
+}
+
+.sd{
+    width: 100%;
+    height: auto;
+}.sd:hover{
+    background-color: rgb(204, 208, 233) !important;
+
+}
+.mainForList{
+    width: 100% !important;
+    margin: 15px;
+    
+    
+}
+.boxForList{
+    width: 100% !important;
+    box-shadow: 0px 0px 15px rgb(196, 195, 195);
+    border-radius: 15px;
+}
+.containerList{
+    width: 100%;
+}
+.Tatah{
+    float: right !important;
+}
+@media only screen and (min-width:0px) and (max-width:500px) {
+
+    .mainForList{
+        width: 100% !important;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .containerList{
+        display: block;
+        width: 90%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+}

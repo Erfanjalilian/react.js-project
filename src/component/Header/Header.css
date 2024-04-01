@@ -1,0 +1,34 @@
+
+
+.right{
+   justify-content: right !important;
+}
+.fontForHeader{
+    font-weight: 500 !important;
+    color: #0000008c !important;
+    text-decoration: none !important;
+}
+a{
+    text-decoration: none !important;
+    color: #0000008c !important;
+}
+.headerLogo{
+    color: #0061f2 !important;
+    font-size: 1.2rem !important;
+    font-weight: 700 !important;
+}
+.header{
+    position: fixed !important;
+}
+
+
+@media only screen and (min-width:0px) and (max-width:500px) {
+
+    header{
+        
+        box-shadow: 1px 0px 1px gray;
+    }
+
+
+    
+}

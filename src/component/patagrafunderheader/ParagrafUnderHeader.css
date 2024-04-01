@@ -1,0 +1,58 @@
+
+
+
+.aks{
+    width: 100%;
+    height: 100%;
+    margin-top: 50px !important;
+}
+.paragraf{
+    margin-top: 150px !important;
+}
+.paragraf > h3{
+    font-size: 2.5rem;
+    color: #363d47;
+}
+.paragraf > p{
+    font-size: 1.15rem;
+    color: #69707a;
+}
+.btnOne{
+    font-weight: 500 !important;
+    font-size: 1rem;
+    border-radius: 0.5rem;
+    padding: 1.125rem 1.5rem;
+    color: white;
+    background-color: #0061f2;
+    line-height: 1;
+    border: 1rem white;
+    margin: 5px;
+}
+.btnTwo{
+    font-weight: 500 !important;
+    font-size: 1rem;
+    border-radius: 0.5rem;
+    padding: 1.4rem 1.5rem;
+    color: #0061f2;
+    background-color: #bcd4fa;
+    line-height: 1;
+    border: 1rem white;
+    margin: 5px;
+
+}
+.Iconbrtn{
+    font-size: 1rem;
+    font-weight: 500;
+    box-sizing: border-box;
+    text-align: center;
+    width: 24px;
+    height: 24px;
+}
+
+@media only screen and (min-width:0px) and (max-width:500px) {
+    .aks{
+        display: none;
+    }
+
+    
+}

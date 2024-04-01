@@ -1,0 +1,404 @@
+
+{
+
+
+    "BetweenHeaderAndFooter":{
+
+        "data":[
+            {
+                "id":1,
+                "onvanbeetween1":"A quick guide to our company culture",
+                "onvanbeetween2":" This is what we do",
+                "onvanbeetween3":"Questions you should ask yourself",
+                "onvanbeetween4":" Move with urgency and focus",
+                "onvanbeetween5":"Questions you should ask yourself",
+                "onvanbeetween6":"Feedback",
+                "tozihat1":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor, eos quisquam expedita quo officiis porro provident laborum. Earum, consequatur provident, ipsam at excepturi rerum laborum aliquam facere molestias mollitia recusandae.",
+                "tozihat2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, ipsam? Perspiciatis sunt voluptatum officia non harum, dolores omnis fugiat nam ad optio cumque molestiae impedit dignissimos velit commodi aliquid iure?",
+                "tozihat3":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Exercitationem sapiente natus architecto aut porro! Vitae iusto praesentium recusandae debitis, cumque illum amet suscipit rem pariatur, magni iure laborum inventore in!",
+                "tozihat4":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor, eos quisquam expedita quo officiis porro provident laborum. Earum, consequatur provident, ipsam at excepturi rerum laborum aliquam facere molestias mollitia recusandae.",
+                "tozihat5":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, ipsam? Perspiciatis sunt voluptatum officia non harum, dolores omnis fugiat nam ad optio cumque molestiae impedit dignissimos velit commodi aliquid iure?",
+                "tozihat6":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Exercitationem sapiente natus architecto aut porro! Vitae iusto praesentium recusandae debitis, cumque illum amet suscipit rem pariatur, magni iure laborum inventore in!",
+                "tozihat7":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed soluta fugiat eveniet, dignissimos facere quisquam, odit suscipit aliquid magnam,?",
+                "tozihat8":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit dolorem suscipit veniam excepturi soluta ducimus tempora quasi, itaque odit libero, eos in dolore natus, ipsam consectetur voluptate nulla provident aliquam?",
+                "tozihat9":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque laboriosam consequuntur iusto vero consequatur beatae, tempore voluptatem rerum sit facilis aut ea optio eaque quaerat, libero recusandae soluta molestiae veniam.",
+                "tozihat10":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, ut! Ut ipsum debitis numquam. Perferendis, laudantium! Itaque ab velit eaque magnam quis quam libero saepe nobis culpa. Vitae, dignissimos iusto.",
+                "tozihat11":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas nobis illum nam?",
+                "tozihat12":"In the spirit of thinking rigorously, we’d love your open and honest feedback on this guide. Let us know what you think.",
+                "tozihat13":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum culpa optio nihil id distinctio excepturi dignissimos, iure totam minima, natus ducimus."
+            }
+        ]
+
+    },
+
+    "secAboutUs":{
+
+        "data":[
+            {
+                "id":1,
+                "onvaneAbout":"About our company",
+                "matneAbout":"Our company culture, and how we do things"
+            }
+        ]
+
+    },
+
+
+
+    "ErrorPage":{
+        "data":[
+            {
+                "id":1,
+                "imageUrl":"https://sb-ui-kit-pro-angular.startbootstrap.com/assets/img/illustrations/400-error-bad-request.png",
+                "errorMatn1":"Your client has issued a malformed or illegal request.",
+                "errorMatn2":"Return Home"
+            }
+        ]
+
+    },
+
+
+    "matneAbiUnderFooter":{
+
+        "data":[
+            {
+                "id":1,
+                "matneAbi":"I was impressed with how beautiful and clean this property was. The owner definitely goes the extra mile to help their guests!",
+                "natije1":"Adam Hall",
+                "natije2":"Lisbon, Portugal"
+            },
+            {
+                "id":2,
+                "matneAbi":"Amazing location, convenient parking, and a lots of amenities and extras. I will definitely be returning here whenever I'm in town.",
+                "natije1":"Lia Peterson",
+                "natije2":"Sacramento, CA, USA"
+            }
+        ]
+
+    },
+
+    "readyToBook":{
+
+        "data":[
+            {
+                "id":1,
+                "paragrafReady":"Ready to book?",
+                "btnRaedy":"Search Availability"
+            }
+        ]
+
+    },
+
+    "questions":{
+        "data":[
+            {
+                "id":1,
+                "questions1":"Is there a minimum number of nights?",
+                "anser1":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "questions2":"How close is the nearest grocery store?",
+                "anser2":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "questions3":"How close is the nearest grocery store?",
+                "anser3":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            }
+        ]
+    },
+
+    "seeMore":{
+        "data":[
+            {
+                "id":1,
+                "onvanSeeMore":"Outdoor Patio",
+                "matneSeeMore":"Our property features a beautiful, private outdoor area with seating and a pool."
+            },
+            {
+                "id":2,
+                "onvanSeeMore":"Full Kitchen",
+                "matneSeeMore":"A fully stocked kitchen with all modern amenities provides a peaceful cooking environment."
+            },
+            {
+                "id":3,
+                "onvanSeeMore":"Comfortable Bedding",
+                "matneSeeMore":"With three newly updated bedrooms you will be sleeping soundly during your stay."
+            }
+
+        ]
+    },
+
+    "SecLandingPage":{
+        "data":[
+            {
+                "id":1,
+                "OnvanLanding":"Rent your home or extra room",
+                "matneLanding":"Opening your home to vacationers is a great way to earn some extra income, and this is a great way to get started!",
+                "BRNLanding1":"Get started",
+                "BTNLanding2":"Lern more"
+            }
+        ]
+
+    },
+
+
+
+    "InnerPages":{
+        "data":[
+            {
+                "id":1,
+                "onvanInnerPages":"Company Pages",
+                "list1":"Basic page",
+                "list2":"About page",
+                "list3":"pricing page",
+                "list4":"Contact page",
+                "list5":"Terms page"
+            },
+            {
+                "id":2,
+                "onvanInnerPages":"Support Pages",
+                "list1":"Help center",
+                "list2":"Knowledgebase",
+                "list3":"Message Center",
+                "list4":"Support Ticket",
+                "list5":"Knowledgebase"
+            },
+            {
+                "id":3,
+                "onvanInnerPages":"Portfolio Pages",
+                "list1":"Grid",
+                "list2":"Large Grid",
+                "list3":"Masonry",
+                "list4":"Case Study",
+                "list5":"Project"
+            },
+            {
+                "id":4,
+                "onvanInnerPages":"Careers Pages",
+                "list1":"Careers List",
+                "list2":"Position Details",
+                "list3":"Basic page",
+                "list4":"Basic page",
+                "list5":"Basic page"
+            },
+
+            {
+                "id":5,
+                "onvanInnerPages":"Blog Pages",
+                "list1":"Overview",
+                "list2":"Post",
+                "list3":"Archive",
+                "list4":"Basic page",
+                "list5":"Basic page"
+            }
+
+        ]
+    },
+
+    "DemoHeader":{
+
+        "data":[
+            {
+
+                "id":1,
+                "title":"Demo 1 - Basic",
+                "image":"https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-lead-capture.png"
+
+            },
+            {
+
+                "id":2,
+                "title":"Demo 2 - Basic (Signup)",
+                "image":"https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-portfolio.png"
+
+            },
+            {
+
+                "id":3,
+                "title":"Demo 3 - Graphic",
+                "image":"https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-lead-capture.png"
+
+            },
+            {
+
+                "id":4,
+                "title":"Demo 4 - Graphic (Signup)",
+                "image":"https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-lead-capture.png"
+
+            },
+            {
+
+                "id":5,
+                "title":"Demo 5 - Inner Page",
+                "image":"https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-app-mobile.png"
+
+            },
+            {
+
+                "id":6,
+                "title":"Demo 6 - Nav Only",
+                "image":"https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-multipurpose.png"
+
+            }
+        ]
+
+    },
+
+
+
+    "DemoForWebsit":[
+
+        
+            {
+                "id":1,
+                "title":"Demo 1 - Multipurpose",
+                "image":"https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-multipurpose.png"
+            },
+            {
+                "id":2,
+                "title":"Demo 2 - Mobile App",
+                "image":"https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-app-mobile.png"
+            },
+            {
+                "id":3,
+                "title":"Demo 3 - Desktop App",
+                "image":"https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-multipurpose.png"
+            },
+            {
+                "id":4,
+                "title":"Demo 4 - Agency",
+                "image":"https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-agency.png"
+            },
+            {
+                "id":5,
+                "title":"Demo 5 - Lead Capture",
+                "image":"https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-lead-capture.png"
+            },
+            {
+                "id":6,
+                "title":"Demo 6 - Press",
+                "image":"https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-press.png"
+            },
+            {
+                "id":7,
+                "title":"Demo 7 - Directory",
+                "image":"https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-directory.png"
+            },
+            {
+                "id":8,
+                "title":"Demo 8 - Rental",
+                "image":"https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-rental.png"
+            },
+            {
+                "id":9,
+                "title":"Demo 9 - Real Estate",
+                "image":"https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-real-estate.png"
+            },
+            {
+                "id":10,
+                "title":"Demo 10 - Classifieds",
+                "image":"https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-lead-capture.png"
+            },
+            {
+                "id":11,
+                "title":"Demo 11 - Resume",
+                "image":"https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-multipurpose.png"
+            },
+            {
+                "id":12,
+                "title":"Demo 12 - Portfolio",
+                "image":"https://assets.startbootstrap.com/img/screenshots-product-pages/sb-ui-kit-pro/landing-portfolio.png"
+            }
+
+            
+        
+
+        ],
+
+    "btnNumberDocumentation":{
+        "data":[
+            {
+                "id":1,
+                "matnedokme":"View Documentation"
+            }
+        ]
+    },
+
+
+    "NumberDocumentation":{
+
+        "data":[
+            {
+                "id":1,
+                "Number":"70+",
+                "title1":"Custom/Extended Components",
+                "title2":"We've extended and restyled Bootstrap's default components, and built a suite of new custom components"
+            },
+            {
+                "id":2,
+                "Number":"35+",
+                "title1":"Pre-Built Page Examples",
+                "title2":"Our pre-built page examples are a perfect way to get inspired for creating new pages and views."
+            },
+            {
+                "id":3,
+                "Number":"100+",
+                "title1":"Custom/Extended Utilites",
+                "title2":"We've extended and created new utility classes to give you more control over your content with minimal custom CSS"
+            }
+        ]
+
+    },
+
+    "Documentation":{
+
+        "data":[
+            {
+                "id":1,
+                "LandingPages":"Documentation",
+                "when":"Comprehensive documentation includes usage instructions, component reference, and utility class usage instructions"
+            }
+        ]
+
+    },
+
+
+    "HeaderExample":{
+
+        "data":[
+            {
+                "id":1,
+                "Demoss":"Customizable!",
+                "LandingPagess":"Header Examples",
+                "whens":"Build your own landing page by starting with one of these customizable header examples! You can customize the colors, content, borders, and more!"
+            }
+        ]
+
+    },
+
+
+
+    "LandingPage":{
+
+        "data":[
+            {
+                "id":1,
+                "Demos":"12 Demos!",
+                "LandingPages":"Landing Pages",
+                "when":"When you purchase this UI Kit, you get access to a robust suite of powerful landing page demos to help you get started."
+
+            }
+        ]
+
+    },
+    "underHeader":{
+        
+        "data":[
+            {
+                "id":1,
+                "onvan":"Build your next project faster with SB UI Kit Pro",
+                "matneSade":"Welcome to SB UI Kit Pro, a toolkit for building beautiful web interfaces, created by the development team at Start Bootstrap",
+                "btn1":"view Demo",
+                "btn2":"Documentation",
+                "image":"https://sb-ui-kit-pro-angular.startbootstrap.com/assets/img/illustrations/programming.svg"
+            }
+        ]
+    }
+
+}

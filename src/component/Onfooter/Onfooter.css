@@ -1,0 +1,32 @@
+
+.adad{
+    font-weight: 500 !important;
+    color: #c5ccd6 !important;
+    line-height: 1.2;
+    text-align: center;
+    font-size: 5rem;
+}
+.onvaneadad{
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #363d47;
+    box-sizing: border-box;
+    text-align: center;
+}
+.matneadad{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: center;
+    color: rgb(119, 119, 119);
+}
+
+@media only screen and (min-width:0px) and (max-width:500px) {
+
+    .g{
+        margin-bottom: 100px !important;
+    }
+    
+}

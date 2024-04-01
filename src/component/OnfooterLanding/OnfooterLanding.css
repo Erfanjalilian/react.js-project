@@ -1,0 +1,33 @@
+
+.yellow{
+    color: #f4a100;
+}
+.paragrafOne{
+    font-size: 1.4rem;
+    font-weight: 300;
+    color: #0061f2;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.paragragtwo{
+    font-weight: 700;
+}
+.paragrafthree{
+    font-weight: lighter;
+}
+.containerOnfooter{
+    width: 70%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media only screen and (min-width:0px) and (max-width:500px) {
+    .containerOnfooter{
+        width: 90%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+}
